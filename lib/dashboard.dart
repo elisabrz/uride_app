@@ -88,7 +88,7 @@ class MyProfile extends StatelessWidget {
       child: RichText(
         textAlign: TextAlign.center,
         text: TextSpan(
-            text: 'jeanneymar.durant@outlook.com',
+            text: 'jean.durant@outlook.com',
             style: TextStyle(color: Colors.black, fontSize: 20)),
       ),
     );
